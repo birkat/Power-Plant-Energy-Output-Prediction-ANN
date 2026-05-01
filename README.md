@@ -10,19 +10,12 @@ The model is trained on environmental factors like temperature, exhaust vacuum, 
 📊 Dataset
 
 File: powerplant_data.csv
-
 Features:
-
   AT → Ambient Temperature
-  
   V → Exhaust Vacuum
-  
   AP → Ambient Pressure
-  
   RH → Relative Humidity
-  
 Target:
-
   PE → Power Output
 
 ⚙️ Tech Stack
