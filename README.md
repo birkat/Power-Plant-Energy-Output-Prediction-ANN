@@ -8,13 +8,21 @@ This project predicts the electrical energy output (PE) of a power plant using a
 The model is trained on environmental factors like temperature, exhaust vacuum, ambient pressure, and humidity.
 
 📊 Dataset
+
 File: powerplant_data.csv
+
 Features:
+
   AT → Ambient Temperature
+  
   V → Exhaust Vacuum
+  
   AP → Ambient Pressure
+  
   RH → Relative Humidity
+  
 Target:
+
   PE → Power Output
 
 ⚙️ Tech Stack
