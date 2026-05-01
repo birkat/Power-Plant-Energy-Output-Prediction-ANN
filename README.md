@@ -27,13 +27,13 @@ The model is trained on environmental factors like temperature, exhaust vacuum, 
   
 🧠 Model Architecture
 
-  Input Layer (4 features)
+  - Input Layer (4 features)
           ↓
-  Hidden Layer 1 (6 neurons, ReLU)
+  - Hidden Layer 1 (6 neurons, ReLU)
           ↓
-  Hidden Layer 2 (6 neurons, ReLU)
+  - Hidden Layer 2 (6 neurons, ReLU)
           ↓
-  Output Layer (1 neuron)
+  - Output Layer (1 neuron)
   
 🔄 Workflow
 
