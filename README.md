@@ -3,6 +3,7 @@
 📌 Power Plant Energy Output Prediction (ANN)
 
 📖 Overview
+
 This project predicts the electrical energy output (PE) of a power plant using an Artificial Neural Network (ANN).
 The model is trained on environmental factors like temperature, exhaust vacuum, ambient pressure, and humidity.
 
